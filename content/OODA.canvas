@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"2358e25b898840ca","type":"text","text":"**Cбор нужной информации**","x":69,"y":-355,"width":249,"height":162,"color":"1"},
+		{"id":"8ce7c3b1aae3b034","type":"text","text":"**Распознавание возможных искажений**","x":69,"y":-150,"width":249,"height":162,"color":"2"},
+		{"id":"da7fec72ecea9134","type":"text","text":"**Принятие решений и осуществление действий**\n","x":69,"y":54,"width":249,"height":162,"color":"3"},
+		{"id":"ed805ca45b33ae0b","type":"text","text":"**Повторение процесса с появлением новой информации**","x":69,"y":258,"width":249,"height":162,"color":"4"},
+		{
+			"id":"404fab73fce6b866",
+			"type":"text",
+			"text":"# OODA\n\nПроцесс для принятия эффективных решений в критически важных ситуациях_",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-52,
+			"width":349,
+			"height":187
+		},
+		{"id":"9b33a57d881adb35","type":"text","text":"","x":518,"y":-355,"width":249,"height":162},
+		{
+			"id":"7884cd4e5d216782",
+			"type":"text",
+			"text":"> Что такое стратегия? Ментальный гобелен изменяющихся намерений для гармонизации и концентрации наших усилий в качестве основы для реализации некой задачи или цели в разворачивающемся и часто непредсказуемом мире множества сбивающих с толку событий и множества соперничающих интересов.\n> \n> Джон Бойд",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-141,
+			"width":489,
+			"height":391
+		}
+	],
+	"edges":[
+		{"id":"e25d1d84c0fd4adc","fromNode":"404fab73fce6b866","fromSide":"right","toNode":"2358e25b898840ca","toSide":"left"},
+		{"id":"073d5621546443cd","fromNode":"404fab73fce6b866","fromSide":"right","toNode":"8ce7c3b1aae3b034","toSide":"left"},
+		{"id":"994dccddfe8d914a","fromNode":"404fab73fce6b866","fromSide":"right","toNode":"da7fec72ecea9134","toSide":"left"},
+		{"id":"87c9ef73d89a48b3","fromNode":"404fab73fce6b866","fromSide":"right","toNode":"ed805ca45b33ae0b","toSide":"left"},
+		{"id":"e6a3e79384019901","fromNode":"2358e25b898840ca","fromSide":"right","toNode":"9b33a57d881adb35","toSide":"left"}
+	],
+	"metadata":{}
+}

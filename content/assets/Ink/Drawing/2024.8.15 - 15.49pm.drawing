@@ -1,0 +1,269 @@
+{
+	"meta": {
+		"pluginVersion": "0.2.6",
+		"tldrawVersion": "2.1.0"
+	},
+	"tldraw": {
+		"store": {
+			"document:document": {
+				"gridSize": 10,
+				"name": "",
+				"meta": {},
+				"id": "document:document",
+				"typeName": "document"
+			},
+			"page:3qj9EtNgqSCW_6knX2K9_": {
+				"meta": {},
+				"id": "page:3qj9EtNgqSCW_6knX2K9_",
+				"name": "Handwritten Note",
+				"index": "a1",
+				"typeName": "page"
+			},
+			"shape:kIed3btb2ZrMUrvaOLcIG": {
+				"x": 405,
+				"y": 419.84375,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:kIed3btb2ZrMUrvaOLcIG",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": 0,
+									"z": 0.5
+								}
+							]
+						}
+					],
+					"color": "black",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": false
+				},
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a1",
+				"typeName": "shape"
+			},
+			"shape:moMQweMwkQNpDGzxyqo4R": {
+				"x": 336,
+				"y": 113.84375,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:moMQweMwkQNpDGzxyqo4R",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": 0,
+									"z": 0.5
+								},
+								{
+									"x": -12,
+									"y": 8,
+									"z": 0.5
+								},
+								{
+									"x": -27,
+									"y": 16,
+									"z": 0.5
+								},
+								{
+									"x": -56,
+									"y": 33,
+									"z": 0.5
+								},
+								{
+									"x": -82,
+									"y": 52,
+									"z": 0.5
+								},
+								{
+									"x": -100,
+									"y": 73,
+									"z": 0.5
+								},
+								{
+									"x": -112,
+									"y": 96,
+									"z": 0.5
+								},
+								{
+									"x": -117,
+									"y": 122,
+									"z": 0.5
+								},
+								{
+									"x": -119,
+									"y": 165,
+									"z": 0.5
+								},
+								{
+									"x": -115,
+									"y": 199,
+									"z": 0.5
+								},
+								{
+									"x": -101,
+									"y": 241,
+									"z": 0.5
+								},
+								{
+									"x": -81,
+									"y": 276,
+									"z": 0.5
+								},
+								{
+									"x": -60,
+									"y": 299,
+									"z": 0.5
+								},
+								{
+									"x": -35,
+									"y": 313,
+									"z": 0.5
+								},
+								{
+									"x": -7,
+									"y": 318,
+									"z": 0.5
+								},
+								{
+									"x": 23,
+									"y": 315,
+									"z": 0.5
+								},
+								{
+									"x": 58,
+									"y": 303,
+									"z": 0.5
+								},
+								{
+									"x": 101,
+									"y": 271,
+									"z": 0.5
+								},
+								{
+									"x": 132,
+									"y": 228,
+									"z": 0.5
+								},
+								{
+									"x": 149,
+									"y": 151,
+									"z": 0.5
+								},
+								{
+									"x": 147,
+									"y": 110,
+									"z": 0.5
+								},
+								{
+									"x": 139,
+									"y": 79,
+									"z": 0.5
+								},
+								{
+									"x": 125,
+									"y": 54,
+									"z": 0.5
+								},
+								{
+									"x": 105,
+									"y": 39,
+									"z": 0.5
+								},
+								{
+									"x": 80,
+									"y": 25,
+									"z": 0.5
+								},
+								{
+									"x": 59,
+									"y": 22,
+									"z": 0.5
+								},
+								{
+									"x": 41,
+									"y": 22,
+									"z": 0.5
+								},
+								{
+									"x": 27,
+									"y": 25,
+									"z": 0.5
+								},
+								{
+									"x": 20,
+									"y": 28,
+									"z": 0.5
+								},
+								{
+									"x": 15,
+									"y": 31,
+									"z": 0.5
+								}
+							]
+						}
+					],
+					"color": "black",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": false
+				},
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a2",
+				"typeName": "shape"
+			}
+		},
+		"schema": {
+			"schemaVersion": 2,
+			"sequences": {
+				"com.tldraw.store": 4,
+				"com.tldraw.asset": 1,
+				"com.tldraw.camera": 1,
+				"com.tldraw.document": 2,
+				"com.tldraw.instance": 24,
+				"com.tldraw.instance_page_state": 5,
+				"com.tldraw.page": 1,
+				"com.tldraw.instance_presence": 5,
+				"com.tldraw.pointer": 1,
+				"com.tldraw.shape": 4,
+				"com.tldraw.asset.bookmark": 1,
+				"com.tldraw.asset.image": 3,
+				"com.tldraw.asset.video": 3,
+				"com.tldraw.shape.group": 0,
+				"com.tldraw.shape.text": 1,
+				"com.tldraw.shape.bookmark": 2,
+				"com.tldraw.shape.draw": 1,
+				"com.tldraw.shape.geo": 8,
+				"com.tldraw.shape.note": 6,
+				"com.tldraw.shape.line": 4,
+				"com.tldraw.shape.frame": 0,
+				"com.tldraw.shape.arrow": 3,
+				"com.tldraw.shape.highlight": 0,
+				"com.tldraw.shape.embed": 4,
+				"com.tldraw.shape.image": 3,
+				"com.tldraw.shape.video": 2
+			}
+		}
+	},
+	"previewUri": "<svg xmlns=\"http://www.w3.org/2000/svg\" direction=\"ltr\" width=\"310.1220292449042\" height=\"373.5\" viewBox=\"191.7877084001543 81.84375 310.1220292449042 373.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" style=\"background-color: transparent;\"><defs/><g transform=\"matrix(1, 0, 0, 1, 405, 419.8438)\" opacity=\"1\"><path d=\"M 0 0 m -3.0196680601157797, 0 a 3.0196680601157797,3.0196680601157797 0 1,1 6.039336120231559,0 a 3.0196680601157797,3.0196680601157797 0 1,1 -6.039336120231559,0\" stroke-linecap=\"round\" fill=\"#f2f2f2\"/></g><g transform=\"matrix(1, 0, 0, 1, 336, 113.8438)\" opacity=\"1\"><path d=\"M1.5789,2.3684 T-1.1672,4.0255 -8.8542,8.397 -22.9473,16.3496 -42.9226,28.6774 -63.6936,44.3045 -81.7877,62.6195 -95.5259,83.4921 -104.6659,110.2021 -109.3207,142.021 -107.9523,176.4613 -99.6913,212.5541 -86.066,245.3904 -68.4014,271.7137 -47.0242,290.4038 -22.5253,301.1533 5.259,303.8168 37.7605,295.6372 72.0643,274.6154 101.6488,236.5476 121.3903,189.3661 130.1915,147.246 130.2209,111.5822 122.7742,83.1218 108.8033,61.0716 91.0175,45.1519 72.6446,35.6775 55.474,31.0763 41.3728,29.8336 30.9578,30.4473 20.9017,31.8953 15.2439,32.7048 A1.7222,1.7222 0 0 1 14.7561,29.2952 T20.4138,28.4857 30.7208,27.0204 41.6373,26.4089 56.3287,27.7588 74.1817,32.6207 93.2498,42.5744 111.6585,59.2183 126.0418,82.176 133.6398,111.5229 133.558,147.9047 124.5682,190.6596 104.2979,238.6479 73.8719,277.4953 38.5618,298.9395 4.9563,307.2124 -23.8568,304.3023 -49.2369,293.0281 -71.2454,273.684 -89.2791,246.7539 -103.1152,213.3412 -111.4905,176.5892 -112.8749,141.5071 -108.0912,108.9828 -98.6469,81.4697 -84.5382,59.9344 -66.1125,41.1124 -45.1507,25.0899 -25.206,12.4449 -11.4368,4.2417 -4.1645,-0.471 -1.5789,-2.3684 A2.8464,2.8464 0 0 1 1.5789,2.3684 Z\" stroke-linecap=\"round\" fill=\"#f2f2f2\"/></g></svg>"
+}
