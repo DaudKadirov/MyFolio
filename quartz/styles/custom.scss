@@ -1,3 +1,6 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+a:hover, button:hover, [role="button"]:hover, .clickable:hover {
+    cursor: url("file:///C:/Users/TAMKEEN/Documents/middle-finger.png"), pointer;
+}
