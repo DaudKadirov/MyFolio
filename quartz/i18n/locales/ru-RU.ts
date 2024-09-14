@@ -39,7 +39,7 @@ export default {
       title: "Вид графа",
     },
     recentNotes: {
-      title: "Недавние заметки",
+      title: "Последнее добавленное",
       seeRemainingMore: ({ remaining }) =>
         `Посмотреть оставш${getForm(remaining, "уюся", "иеся", "иеся")} ${remaining} →`,
     },
