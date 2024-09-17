@@ -1,6 +1,6 @@
 ---
 tags:
-  - Лекции/Продукт/CJMиNPSмоделиВлияния
+  - Лекции/Продукт
 Автор лекции: Radar school
 Тип заметки: Конспект
 share_link: https://share.note.sx/p255pd5n#QXd+3voKlOYbrdjNLehi+dlwH3Qk4E7gCj8K6lJXa1A
