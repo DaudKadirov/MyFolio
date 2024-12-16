@@ -42,7 +42,7 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  hyphens: auto;
+  hyphens: none;
 }
 
 p,
@@ -54,7 +54,7 @@ ol,
 ul,
 .katex,
 .math {
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
   /* tr and td removed from list of selectors for overflow-wrap, allowing them to use default 'normal' property value */
 }
 
